@@ -62,6 +62,13 @@ local_settings.py
 db.sqlite3
 db.sqlite3-journal
 
+# Project SQLite database (Hugging Face models)
+*.db
+*.db-wal
+*.db-shm
+*.sqlite
+*.sqlite3
+
 # Flask stuff:
 instance/
 .webassets-cache
