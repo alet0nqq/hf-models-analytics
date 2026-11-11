@@ -225,3 +225,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab 3: исходный датасет (~66 МБ, скачивается с Google Drive)
+lab3/*.csv
